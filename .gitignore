@@ -1,0 +1,16 @@
+# Nunca subir ROMs ni ficheros del emulador
+*.sfc
+*.smc
+*.fig
+*.swc
+*.zip
+*.srm
+*.000
+*.001
+*.oops
+
+# Configuración local del IDE
+.idea/
+
+# Parches de cada versión: se suben como Assets de las Releases de GitHub, no al repositorio
+releases/
